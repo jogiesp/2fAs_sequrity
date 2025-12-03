@@ -17,7 +17,7 @@ Was die Malware tut: Die Schadsoftware war darauf ausgelegt, alle im Browser ges
 
 Der kritische Punkt: Ein Session-Token ist wie ein digitaler Schlüssel, der beweist, dass Sie bereits erfolgreich das Passwort und die 2FA-Bestätigung eingegeben haben. Solange dieser Token gültig ist, können Sie ohne erneute Passworteingabe auf Ihr Konto zugreifen.
 
-Die Umgehung der 2FA: Die Hacker brauchten weder das Passwort noch den 2FA-Code. Sie luden den gestohlenen Token einfach in ihren eigenen Browser und waren sofort als Klaus Helmlich in dessen Google-Konto eingeloggt – ohne jemals die 2FA-Aufforderung ausgelöst zu haben.
+Die Umgehung der 2FA: Die Hacker brauchten weder das Passwort noch den 2FA-Code. Sie luden den gestohlenen Token einfach in ihren eigenen Browser und waren sofort als Klaus Helmlich in dessen Google-Konto eingeloggt, ohne jemals die 2FA-Aufforderung ausgelöst zu haben.
 
 3. Die Übernahme: Ändern der Wiederherstellungsdaten
 Sobald der Angreifer eingeloggt war, konnte er schnell folgende kritische Schritte durchführen:
